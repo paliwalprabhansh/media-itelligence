@@ -11,4 +11,5 @@
    source venv/bin/activate
 5. Install dependencies
    pip install -r requirements.txt
+6. Set up the .env file in local enviroment for the API access. 
    
