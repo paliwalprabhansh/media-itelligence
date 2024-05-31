@@ -11,5 +11,7 @@
    source venv/bin/activate
 5. Install dependencies
    pip install -r requirements.txt
-6. Set up the .env file in local enviroment for the API access. 
+6. Set up the .env file in local enviroment for the API access.
+7. To run the code -> curl -X GET 'http://localhost:8081/search?query=Apple&start_date=2024-05-29&end_date=2024-05-30'
+
    
